@@ -1,0 +1,4 @@
+load STM32F410RBTx 
+project name STCubeGenerated 
+project toolchain "MDK-ARM V5" 
+project path "D:\github\public\keil_freertos_f410rb\RTE\Device\STM32F410RBTx\" 
